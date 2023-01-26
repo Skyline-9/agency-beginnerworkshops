@@ -65,17 +65,11 @@ in the source directory to open the workshops, and deactivate once you are done!
 
 ## Installing and Preparing the MNIST Dataset
 
-We have provided two scripts to install and prepare the MNIST dataset. From the source directory, navigate to the data folder with 
+We have provided a script to install and prepare the MNIST dataset. From the source directory, navigate to the data folder with 
 
 	cd data
 	
-Now, run the script to install the data from online
-
-	sh get_data.sh
-		
-If the script is not working for you, you can alternatively go to [Yann LeCun's Website](http://yann.lecun.com/exdb/mnist/) and simply click on the 4 links at the top to download the dataset. Move these files into the data directory, and make sure to unzip them. 
-
-Once you have the data downloaded, we will reformat it. You can do this by running
+Now, run the script to grab the data
 
 	python mnist_to_csv.py
 	
