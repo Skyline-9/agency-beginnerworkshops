@@ -24,7 +24,7 @@ Simply fork the repository or download a zip of the code. It is important to kee
 
 Make sure you have the following dependencies
 - [ ] [Python](https://www.python.org/downloads/)
-- [ ] Anaconda (any version will do, I suggest [Miniconda](https://docs.conda.io/en/main/miniconda.html)
+- [ ] Anaconda (any version will do, I suggest [Miniconda](https://docs.conda.io/en/main/miniconda.html))
 - [ ] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 If you have git, you can run
